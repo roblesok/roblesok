@@ -1,6 +1,6 @@
 ### Hi There:exclamation: :zap:
 
-🎉 Welcome to my GitHub profile!
+🎉 Welcome to my *secondary* GitHub profile!
 
 Work in progress :hammer:
 
